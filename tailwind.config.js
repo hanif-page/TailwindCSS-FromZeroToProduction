@@ -11,6 +11,8 @@ module.exports = {
     extend: {
       backgroundColor: ['active'],
       textColor: ['active'],
+      ringColor: ['active'],
+      ringWidth: ['active'],
     },
   },
   plugins: [],
